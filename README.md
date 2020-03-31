@@ -1,7 +1,7 @@
-# MvcApiCall
+# MvcApiCallNYTimes
 ### By **Keturah Howard**  March 20th 2020
 
-ASP.NET core MVC application to demonsteate how to make an API call.
+ASP.NET core MVC application to demonsteate how to make an API call with the NYTimes API.
 
 ## Specifications:
 
